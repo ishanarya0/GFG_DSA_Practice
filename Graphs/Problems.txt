@@ -27,3 +27,6 @@ https://practice.geeksforgeeks.org/problems/topological-sort/1
 
 10. Flood fill Algorithm
 https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0
+
+11. Arya's Stunt
+https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/aryas-stunt-63b3da17/
